@@ -1,11 +1,11 @@
 # lazys3
 
-A Ruby script to bruteforce for AWS s3 buckets using different permutations.
+A python re-write of lazys3 to bruteforce AWS s3 buckets using different permutations.
 
 # Usage 
 
 ```
-$ ruby lazys3.rb <COMPANY> 
+$ python3 lazys3-py.py <COMPANY> 
 ```
 
 # Authors
@@ -15,3 +15,4 @@ $ ruby lazys3.rb <COMPANY>
 # Changelog 
 
 1.0 - Release
+1.1 - Python re-write (6 years later)
