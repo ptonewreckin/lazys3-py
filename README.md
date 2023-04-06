@@ -14,5 +14,5 @@ $ python3 lazys3-py.py <COMPANY>
 
 # Changelog 
 
-1.0 - Release
+1.0 - Release <br />
 1.1 - Python re-write (6 years later)
